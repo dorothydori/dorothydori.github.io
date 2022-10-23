@@ -7,4 +7,5 @@ This is my first browser game inspired by an old game everyone knows: “Rock pa
 **Acknowledgments**
 
 [Rock-Paper-Scissors-picture](https://www.deviantart.com/naolito/art/Rock-Paper-Scissors-Bully-846437549)
+
 [Rock, Paper and Scissor Game using Javascript](https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-javascript/)
