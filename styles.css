@@ -1,0 +1,74 @@
+
+body {
+    background-image: url('rock_paper_scissors.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+
+.title {
+    padding: 1em;
+    font-size: xx-large;
+    text-align: center;
+    color: olivedrab;
+    text-shadow: 1px 1px black;
+}
+
+.options{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 17em;
+}
+
+.rock, .paper, .scissor{
+    font-size: x-large;
+    width: 100px;
+    background-color: olivedrab;
+    color: whitesmoke;
+}
+
+.score{
+    display: flex;
+    justify-content: space-evenly;
+    top: 70px;
+}
+
+.p-count,.c-count{
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 1em;
+    color: olivedrab;
+}
+
+.move{
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 1em;
+}
+
+.movesleft{
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    font-size: large;
+}
+
+.reload {
+    position: absolute;
+    top: 85%;
+    left: 48%;
+    text-align: center;
+    font-size: x-large;
+    color: olivedrab;
+    outline: none;
+    border: none;
+} 
+
+.result {
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    font-size: large;
+}
+
